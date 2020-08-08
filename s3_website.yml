@@ -1,3 +1,0 @@
-profile: <%= ENV['AWS_PROFILE'] %>
-s3_bucket: <%= ENV['S3_BUCKET'] %>
-s3_endpoint: us-east-2
